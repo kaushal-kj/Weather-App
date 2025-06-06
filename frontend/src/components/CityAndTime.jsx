@@ -5,7 +5,7 @@ import sunny from "../assets/sunny.png";
 import humidity from "../assets/humidity.png";
 import windspeed from "../assets/windspeed.png";
 import pressure from "../assets/pressure.png";
-import uv from "../assets/uv1.png";
+import uv from "../assets/uv1.PNG";
 import { BsSunrise, BsSunset } from "react-icons/bs";
 import ForeCast from "./ForeCast";
 import { toast } from "react-toastify";
