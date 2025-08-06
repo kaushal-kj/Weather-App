@@ -63,17 +63,17 @@ https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API_K
 
 ## 📁 Project Structure
 
-Weather-App/
-
-├── index.html # Main HTML file
-
-├── style.css # Stylesheet
-
-├── script.js # JavaScript functionality
-
-├── README.md # Project documentation
-
-└── assets/ # Images and icons (if any)
+Weather-App\
+├── frontend\
+│   ├── public\
+│   ├── src\
+│   │   ├── assets\
+│   │   ├── components\
+│   │   ├── App.jsx\
+│   │   ├── index.jsx\
+│   │   └── main.jsx\
+│   └── index.html\
+└── README.md
 
 
 
